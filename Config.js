@@ -9,7 +9,7 @@ global.settings = {
     TIME_ZONE: "Africa/Lagos",
     ANTI_VIEWONCE: true,
     AUTO_READ_STATUS: true,
-    ALWAYS_ONLINE: true,
+    ALWAYS_ONLINE: false,
     READ_ALL_MESSAGES: false,
     PREFIX: [".", "/", "!"],
     WELCOME_MESSAGE: "Hello! I'm KORD-AI, your friendly WhatsApp bot.",
