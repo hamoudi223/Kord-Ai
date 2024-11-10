@@ -144,8 +144,8 @@
 
 
 #### Contact The Developer
-Telegram:  https://t.me/M32669
-Join the Whatsapp [Channel](https://whatsapp.com/channel/0029VaghjWRHVvTh35lfZ817)
+- Telegram:  https://t.me/M32669
+- Join the Whatsapp [Channel](https://whatsapp.com/channel/0029VaghjWRHVvTh35lfZ817)
  
 
 - Star ⭐ repo if you like this bot.
