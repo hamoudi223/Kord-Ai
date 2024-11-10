@@ -20,7 +20,8 @@
     "whatsapp-web",
     "whatsapp-bot",
     "multi-device",
-    "kord-md",
+    "kord-ai",
+    "m3264",
     "bot",
     "baileys",
     "nodejs"
@@ -75,6 +76,9 @@
     "ytdl-core": "^4.11.5",
     "new-youtube-exec": "1.0.5",
     "vcard-parser": "^1.0.0",
-    "libphonenumber-js": "^1.11.11"
+    "libphonenumber-js": "^1.11.11",
+    "semver": "^7.3.8",
+    "crypto": "^1.0.1",
+    "adm-zip": "^0.5.10"
   }
 }
