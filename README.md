@@ -37,8 +37,8 @@
 ---
 
 1. Get `SESSION ID`
-Web: [Click Here](https://mirage-session-o2cf.onrender.com/pair)
-Telegram Bot: [Click Here](https://t.me/kpair_bot)
+- Web: [Click Here](https://mirage-session-o2cf.onrender.com/pair)
+- Telegram Bot: [Click Here](https://t.me/kpair_bot)
 
 
 2.  ***`Star ⭐` repository & Click [`FORK`](https://github.com/M3264/Kord-Ai/fork)***
